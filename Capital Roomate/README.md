@@ -1,5 +1,5 @@
 # Project Information
--Capital Roomate
+-Capital Roomate <br />
 -A web application that's uncompleted, static and non functional.
 -Contributors list: Kidd Chang
 
