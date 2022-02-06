@@ -40,7 +40,7 @@
           <p class="personcost">$0</p>
         </div>
         <div class="grid-item">
-          <button class="add-btn"><img src="@/assets/add.svg" alt="delete bill" width="25" height="25"></button>
+          <button class="add-btn"><img src="@/assets/delete.svg" alt="delete bill" width="25" height="25"></button>
         </div>
       </div>
 
