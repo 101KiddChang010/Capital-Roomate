@@ -11,6 +11,7 @@
 
 ## Navigating the repo
 -All the data will be found in the Capital Roomate file. <br />
+-The main file with data will be the "App.vue" file. <br />
 -The most important data will be the readme file in the "capital-roomate" folder which will explain how to run the program. <br />
 -You can reproduce the output of the hack by creating a simple html website with some css. <br />
 
