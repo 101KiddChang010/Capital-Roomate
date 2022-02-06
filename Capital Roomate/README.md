@@ -1,4 +1,4 @@
-# fambam
+# Capital Roomate
 
 ## Project setup
 ```
