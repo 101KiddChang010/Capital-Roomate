@@ -11,10 +11,11 @@
 
 ## Navigating the repo
 -All the data will be found in the Capital Roomate file. <br />
+-The most important data will be the readme file in the "capital-roomate" folder which will explain how to run the program. <br />
 -You can reproduce the output of the hack by creating a simple html website with some css. <br />
 
 ### Explaination of most files in Capital Roomate
--All the files in the "capital-roomate" file are accomodating files for the project.
--The folder "capital-roomate/src" is the main file to run the program and contains all the assets and components.
--The folder "capital-roomate/public" just contains an icon and the index.
--The folder "capital-roomate/.vscode" has a single supporting file used for visual studio code if you use visual studio code.
+-All the files in the "capital-roomate" file are accomodating files for the project. <br />
+-The folder "capital-roomate/src" is the main file to run the program and contains all the assets and components. <br />
+-The folder "capital-roomate/public" just contains an icon and the index. <br />
+-The folder "capital-roomate/.vscode" has a single supporting file used for visual studio code if you use visual studio code. <br />
